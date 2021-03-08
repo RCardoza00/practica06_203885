@@ -1,6 +1,7 @@
 package mx.edu.itson.practica06_203885
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import kotlinx.android.synthetic.main.activity_detalle_pelicula.*
 
 class detalle_pelicula : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
