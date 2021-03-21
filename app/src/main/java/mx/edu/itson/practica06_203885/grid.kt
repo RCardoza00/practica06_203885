@@ -1,6 +1,5 @@
 package mx.edu.itson.practica06_203885
 
-
 import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
